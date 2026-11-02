@@ -26,3 +26,4 @@ formatted_grand_total = format_currency(grand_total)
 print(f"\nGrand Total: {formatted_grand_total}")
 
 print(grand_total)
+print("hi")
